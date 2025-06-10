@@ -28,3 +28,4 @@ In conclusion, this real-time chat application demonstrates essential web develo
 
 **OUTPUT**    : 
 
+![Image](https://github.com/user-attachments/assets/91dde039-5c82-4a7f-ac82-73c956f77110)
